@@ -4,7 +4,7 @@ Safe zone script
 ## Requirements
 - [VORP Core](https://github.com/VORPCORE/VORP-Core/releases)
 
-## How it work
+## How it works
 * Add to ```resources/vorp_safezone/Config.json``` your zone and the radious 
 
 ## How to install
