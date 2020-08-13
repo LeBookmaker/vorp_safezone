@@ -5,7 +5,7 @@ Safe zone script
 - [VORP Core](https://github.com/VORPCORE/VORP-Core/releases)
 
 ## How it works
-* Add to ```resources/vorp_safezone/Config.json``` your zone and the radious 
+* Add to ```resources/vorp_safezone/Config.json``` your zone and the radius 
 
 ## How to install
 * Copy and paste ```vorp_safezone``` folder to ```resources/vorp_safezone```
