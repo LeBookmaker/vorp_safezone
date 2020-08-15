@@ -10,7 +10,7 @@ Safe zone script
 ## How to install
 * Copy and paste ```vorp_safezone``` folder to ```resources/vorp_safezone```
 * Add ```ensure vorp_safezone``` to your ```server.cfg``` file
-* To change the language go to ```resources/vorp_safezone/Config.json```, and chenge the language 
+* To change the language go to ```resources/vorp_safezone/Config.json```, and change the language 
 * Enjoy!
 
 ## Credits
